@@ -1,5 +1,5 @@
 Desafio do processo da Apple Academy – Sistema de Loja de Itens RPG em Swift
-# 🛒 Loja RPG – Desafio Apple Academy
+# 🛒 Loja de Itens – Desafio Apple Academy
 
 Este projeto foi desenvolvido para o desafio do processo seletivo da **Apple Developer Academy | SENAC**.  
 Ele foi construído usando apenas conceitos iniciais do Swift.
