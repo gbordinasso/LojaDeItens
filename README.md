@@ -101,5 +101,3 @@ Projeto desenvolvido como parte do desafio técnico da
 **Apple Developer Academy | SENAC Santo Amaro**.
 
 Autor: **Gustavo Bordinasso**
-
-Otimo. Sim ou nao apenas
